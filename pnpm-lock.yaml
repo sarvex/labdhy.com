@@ -12,8 +12,8 @@ dependencies:
     specifier: 0.0.13
     version: 0.0.13(@builder.io/qwik@1.2.15)
   '@unpic/qwik':
-    specifier: 0.0.28
-    version: 0.0.28(@builder.io/qwik@1.2.15)
+    specifier: 0.0.29
+    version: 0.0.29(@builder.io/qwik@1.2.15)
   qwik-image:
     specifier: 0.0.8
     version: 0.0.8
@@ -4042,8 +4042,8 @@ packages:
     resolution: {integrity: sha512-zuVdFrMJiuCDQUMCzQaD6KL28MjnqqN8XnAqiEq9PNm/hCPTSGfrXCOfwj1ow4LFb/tNymJPwsNbVePc1xFqrQ==}
     dev: true
 
-  /@unpic/qwik@0.0.28(@builder.io/qwik@1.2.15):
-    resolution: {integrity: sha512-V8HKsQwxeheukN8QAK61irl7JFDG/2Z+oe6UUQj8NTUJMkO9REkk+QRd5+W6kAwkFUWdEDsan9UXCeuf2BjQvA==}
+  /@unpic/qwik@0.0.29(@builder.io/qwik@1.2.15):
+    resolution: {integrity: sha512-sh1PT5iZqO6VB9p+SLfb+tDMW6EUDoU9+zIArDq40YTKVRGlQ+/1s4sVfMtrHtB0P4E8HOhBXbTqt6yRsPf7AQ==}
     engines: {node: '>=15.0.0'}
     peerDependencies:
       '@builder.io/qwik': '*'
